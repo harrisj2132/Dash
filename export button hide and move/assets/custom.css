@@ -1,0 +1,31 @@
+/* #table_to_export button.export {
+    display: block;
+    
+} */
+
+/* button.export{
+    position: absolute;
+    right: 50%;
+    font-family: sans-serif;
+    background-color: orange;
+    color: whitesmoke;
+    border: none;
+
+}
+
+#export_table {
+    background-color: dodgerblue;
+    color: whitesmoke;
+    border: none;
+} */
+
+.export {
+    background-color: dodgerblue;
+    color: whitesmoke;
+    border: none;
+    transition:.75s;
+    position: fixed;
+    left: 100px;
+    top:5px
+}
+
